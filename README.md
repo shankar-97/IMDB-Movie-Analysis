@@ -2,14 +2,19 @@
 Designed ETL workflow to integrate the data and created attractive dashboards to visualize the data. Implemented an Analytical Data Architecture (ADA)
 
 Staging- load data from data sources
+
 Integration-load into a dimensional model that provides data consistency
+
 BI Schemas- create one or more BI schemas tailored to specific types of analysis
 
 Tools used as part of this project:
 
 Talend
+
 Microsoft SQL server Management Studio
+
 Tableau
+
 Power BI
 
 Run the scripts provided by Professor Rick Sherman in SSMS to setup the staging database. Then open Talend to setup the database connections and input file connections.
